@@ -1,0 +1,17 @@
+=========================================
+Ratio Edge Cases Log
+=========================================
+
+1. Division by zero handled using safe_divide()
+2. Negative equity returns None for ROE
+3. Negative capital employed returns None for ROCE
+4. Zero sales returns None for margins
+5. Missing values handled gracefully
+6. Banks excluded from Debt/Equity calculation
+7. Interest = 0 returns None for Interest Coverage Ratio
+8. Turnaround companies detected correctly
+9. OPM validated against source values
+10. ROCE anomalies exported for review
+
+Status:
+All KPI edge-case tests passed successfully.

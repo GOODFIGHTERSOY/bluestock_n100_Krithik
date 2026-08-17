@@ -1,0 +1,143 @@
+{
+  "info": {
+    "_postman_id": "bluestock-n100-api",
+    "name": "Bluestock N100 Analytics API",
+    "description": "Postman collection for the Bluestock N100 FastAPI server.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://127.0.0.1:8000"
+    },
+    {
+      "key": "company_id",
+      "value": "1"
+    },
+    {
+      "key": "group_name",
+      "value": "Banking"
+    }
+  ],
+  "item": [
+    {
+      "name": "1 - Root",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/"
+      }
+    },
+    {
+      "name": "2 - Health Check",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/health"
+      }
+    },
+    {
+      "name": "3 - List Companies",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/companies"
+      }
+    },
+    {
+      "name": "4 - Company Profile",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/companies/{{company_id}}"
+      }
+    },
+    {
+      "name": "5 - Company Ratios",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/companies/{{company_id}}/ratios"
+      }
+    },
+    {
+      "name": "6 - Company Trend",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/companies/{{company_id}}/trend"
+      }
+    },
+    {
+      "name": "7 - Company Cash Flow",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/companies/{{company_id}}/cashflow"
+      }
+    },
+    {
+      "name": "8 - Screener",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/screener?min_roe=10&max_debt_equity=2&min_margin=5"
+      }
+    },
+    {
+      "name": "9 - Peer Groups",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/peer-groups"
+      }
+    },
+    {
+      "name": "10 - Peer Comparison",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/peer-groups/{{group_name}}"
+      }
+    },
+    {
+      "name": "11 - Sector Analysis",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/sectors"
+      }
+    },
+    {
+      "name": "12 - Capital Allocation",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/capital-allocation"
+      }
+    },
+    {
+      "name": "13 - Clusters",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/clusters"
+      }
+    },
+    {
+      "name": "14 - Cluster Summary",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/clusters/summary"
+      }
+    },
+    {
+      "name": "15 - Valuation",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/valuation"
+      }
+    },
+    {
+      "name": "16 - Annual Reports",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/annual-reports"
+      }
+    },
+    {
+      "name": "17 - Portfolio Summary",
+      "request": {
+        "method": "GET",
+        "url": "{{base_url}}/api/portfolio-summary"
+      }
+    }
+  ]
+}

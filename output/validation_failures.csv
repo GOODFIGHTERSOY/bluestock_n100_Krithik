@@ -1,0 +1,2 @@
+rule,table,severity,message
+DQ-06,profitandloss,WARNING,1 non-positive sales values

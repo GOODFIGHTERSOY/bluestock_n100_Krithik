@@ -1,0 +1,110 @@
+company_id,company_name,pros,cons
+SIEMENS,Siemens Ltd,Strong return on equity.; Healthy return on capital employed.; Low debt burden.; Comfortable interest coverage.; Positive free cash flow.; Controlled capital expenditure.,Weak operating cash flow.; Poor cash conversion.
+ABB,Abbott India Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+ADANIENSOL,Adani Energy Solutions Ltd,Strong operating efficiency.,Thin profit margins.
+ADANIENT,Adani Enterprises Ltd,Stable financial performance.,Thin profit margins.
+ADANIGREEN,Adani Green Energy Ltd,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+ADANIPOWER,Adani Power Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+AMBUJACEM,Ambuja Cements Ltd,Comfortable interest coverage.,No major financial concerns.
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Comfortable interest coverage.,Thin profit margins.
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Comfortable interest coverage.,No major financial concerns.
+ATGL,Adani Total Gas Ltd,Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+BAJAJ-AUTO,Bajaj Auto Ltd,Excellent profit margin.; Comfortable interest coverage.,No major financial concerns.
+AXISBANK,Axis Bank Ltd,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+BAJAJFINSV,Bajaj Finserv Ltd,Strong operating efficiency.,No major financial concerns.
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+BAJFINANCE,Bajaj Finance Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+BANKBARODA,Bank of Baroda,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+BHARTIARTL,Bharti Airtel Ltd,Strong operating efficiency.,No major financial concerns.
+BEL,Bharat Electronics Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+BHEL,"Bharat Heavy Electricals Limited
+",Stable financial performance.,Thin profit margins.; Weak operating margin.; Low interest coverage.
+BOSCHLTD,Bosch Ltd,Comfortable interest coverage.,No major financial concerns.
+BPCL,Bharat Petroleum Corporation Ltd,Comfortable interest coverage.,Thin profit margins.; Weak operating margin.
+BRITANNIA,Britannia Industries Ltd,Comfortable interest coverage.,No major financial concerns.
+CANBK,Canara Bank,Stable financial performance.,Weak operating margin.; Low interest coverage.
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+CIPLA,"Cipla Ltd
+",Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+COALINDIA,Coal India Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+DABUR,Dabur India Ltd,Comfortable interest coverage.,No major financial concerns.
+DIVISLAB,Divis Laboratories Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+DLF,DLF Ltd,Excellent profit margin.; Strong operating efficiency.,No major financial concerns.
+DMART,Avenue Supermarts Ltd,Comfortable interest coverage.,Thin profit margins.; Weak operating margin.
+DRREDDY,Dr Reddys Laboratories Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+EICHERMOT,Eicher Motors Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+GAIL,GAIL (India) Ltd,Comfortable interest coverage.,No major financial concerns.
+GODREJCP,Godrej Consumer Products Ltd,Strong operating efficiency.; Comfortable interest coverage.,Thin profit margins.
+GRASIM,Grasim Industries Ltd,Strong operating efficiency.,Thin profit margins.
+HAL,Hindustan Aeronautics Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+HAVELLS,Havells India Ltd,Comfortable interest coverage.,Thin profit margins.; Weak operating margin.
+HCLTECH,HCL Technologies Ltd,Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+HDFCBANK,HDFC Bank Ltd,Excellent profit margin.,Weak operating margin.; Low interest coverage.
+HDFCLIFE,HDFC Life Insurance Company Ltd,Strong operating efficiency.; Comfortable interest coverage.,Thin profit margins.
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+HINDALCO,Hindalco Industries Ltd,Strong operating efficiency.; Comfortable interest coverage.,Thin profit margins.
+HINDUNILVR,"Hindustan Unilever Ltd
+",Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+ICICIBANK,ICICI Bank Ltd,Excellent profit margin.,Weak operating margin.; Low interest coverage.
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Strong operating efficiency.,Low interest coverage.
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Strong operating efficiency.; Comfortable interest coverage.,Thin profit margins.
+INDUSINDBK,IndusInd Bank Ltd,Excellent profit margin.; Strong operating efficiency.,No major financial concerns.
+INFY,Infosys Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+IOC,"Indian Oil Corporation
+",Stable financial performance.,Thin profit margins.; Weak operating margin.
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+IRFC,Indian Railway Finance Corporation Ltd,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+ITC,"ITC Ltd
+",Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+JINDALSTEL,Jindal Steel & Power Ltd,Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+JIOFIN,Jio Financial Services Ltd,Excellent profit margin.; Strong operating efficiency.,No major financial concerns.
+JSWENERGY,JSW Energy Ltd,Excellent profit margin.; Strong operating efficiency.,No major financial concerns.
+JSWSTEEL,JSW Steel Ltd,Stable financial performance.,Thin profit margins.
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",Excellent profit margin.,Weak operating margin.; Low interest coverage.
+LICI,Life Insurance Corporation of India,Stable financial performance.,Thin profit margins.; Weak operating margin.
+LODHA,Macrotech Developers Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+LT,Larsen & Toubro Ltd,Stable financial performance.,Thin profit margins.
+LTIM,LTIMindtree Ltd,Comfortable interest coverage.,No major financial concerns.
+M&M,"Mahindra & Mahindra Ltd
+",Stable financial performance.,No major financial concerns.
+MARUTI,Maruti Suzuki India Ltd,Comfortable interest coverage.,No major financial concerns.
+MOTHERSON,Samvardhana Motherson International Ltd,Comfortable interest coverage.,Thin profit margins.; Weak operating margin.
+NAUKRI,Info Edge (India) Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+NESTLEIND,Nestle India Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+NHPC,"NHPC Ltd
+",Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+NTPC,NTPC Ltd,Strong operating efficiency.,No major financial concerns.
+ONGC,Oil & Natural Gas Corpn Ltd,Comfortable interest coverage.,Thin profit margins.
+PFC,Power Finance Corporation Ltd,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+PIDILITIND,Pidilite Industries Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+PNB,Punjab National Bank,Stable financial performance.,No major financial concerns.
+POWERGRID,Power Grid Corporation of India Ltd,Excellent profit margin.; Strong operating efficiency.,No major financial concerns.
+RECLTD,REC Ltd,Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+RELIANCE,"Reliance Industries Ltd
+",Comfortable interest coverage.,No major financial concerns.
+SBILIFE,SBI Life Insurance Company Ltd,Stable financial performance.,Thin profit margins.; Weak operating margin.
+SBIN,State Bank of India,Excellent profit margin.,Weak operating margin.; Low interest coverage.
+SHREECEM,Shree Cement Ltd,Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+SHRIRAMFIN,"Shriram Finance Ltd
+",Excellent profit margin.; Strong operating efficiency.,Low interest coverage.
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+TATACONSUM,Tata Consumer Products Ltd,Comfortable interest coverage.,Thin profit margins.
+TATAMOTORS,Tata Motors Ltd,Comfortable interest coverage.,Thin profit margins.
+TATAPOWER,"Tata Power Company Ltd
+",Stable financial performance.,Thin profit margins.
+TATASTEEL,"Tata Steel Ltd
+",Stable financial performance.,Thin profit margins.
+TCS,Tata Consultancy Services Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+TECHM,Tech Mahindra Ltd,Comfortable interest coverage.,Thin profit margins.
+TITAN,"Titan Company Ltd
+",Comfortable interest coverage.,Thin profit margins.; Weak operating margin.
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Excellent profit margin.; Strong operating efficiency.; Comfortable interest coverage.,No major financial concerns.
+TRENT,Trent Ltd,Comfortable interest coverage.,No major financial concerns.
+TVSMOTOR,TVS Motor Company Ltd,Stable financial performance.,Thin profit margins.
+INDIGO,Interglobe Aviation Ltd,Strong operating efficiency.; Comfortable interest coverage.,Thin profit margins.

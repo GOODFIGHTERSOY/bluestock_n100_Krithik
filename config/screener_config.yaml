@@ -1,0 +1,33 @@
+database: data/nifty100.db
+
+presets:
+
+  quality:
+    return_on_equity_pct: "> 15"
+    operating_profit_margin_pct: "> 15"
+    net_profit_margin_pct: "> 10"
+    debt_to_equity: "< 1"
+
+  value:
+    debt_to_equity: "< 0.5"
+    interest_coverage: "> 5"
+    asset_turnover: "> 0.75"
+
+  growth:
+    operating_profit_margin_pct: "> 20"
+    net_profit_margin_pct: "> 15"
+    return_on_equity_pct: "> 18"
+
+  low_debt:
+    debt_to_equity: "< 0.3"
+    interest_coverage: "> 8"
+
+  efficient_business:
+    asset_turnover: "> 1"
+    operating_profit_margin_pct: "> 15"
+    return_on_equity_pct: "> 15"
+
+  cash_rich:
+    cfo_quality_score: "> 1"
+    fcf_conversion: "> 0"
+    free_cash_flow: "> 0"
