@@ -39,7 +39,7 @@ data/
 Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/GOODFIGHTERSOY/bluestock_n100_Krithik.git
 ```
 
 Create Virtual Environment
